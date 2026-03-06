@@ -46,4 +46,40 @@ This repository contains a collection of core C++ logic, mathematical algorithms
 | 19 | Number Diamond | Nested loops, mirrored output |
 
 
+
+
+## 📋 Assignment 4-This assignment is mainly about n-dimensional arrays (1D, 2D, and 3D) in C++ through problems like searching, sorting, games, algorithms, and image processing.
+
+| # | Topic | Key Concept |
+|---|-------|-------------|
+| 1 | Unique Number Storage | 1D array, duplicate checking, input validation |
+| 2 | Array Right Shift by K | 1D array manipulation, index math |
+| 3 | Kth Largest / Lth Smallest | Sorting, file input, array searching |
+| 4 | Pair Sum = Rest of Array | Array traversal, sum logic, optimization |
+| 5 | Summer Weather Tracker | 2D char array, random data, frequency counting |
+| 6 | Tic-Tac-Toe Game | 2D array, game logic, win/tie detection |
+| 7 | Knight's Tour | 2D array, heuristic search, L-shaped moves |
+| 8 | Sieve of Eratosthenes | 1D boolean array, prime number algorithm |
+| 9 | Eight Queens Problem | 2D array, constraint-based heuristic placement |
+| 10 | RGB Image Filter Studio | 3D array, grayscale/invert/brightness/mirror/threshold filters |
+
+---
+
+## 🛠️ How to Compile & Run
+
+```bash
+g++ q1.cpp -o q1 && ./q1
+```
+
+For q10 (uses file output for `.ppm` images):
+```bash
+g++ q10.cpp -o q10 && ./q10
+```
+View the generated `.ppm` image using [JumpShare](https://jumpshare.com) or any PPM viewer.
+
+---
+
+
+
+
 All solutions in this repository are original work.
