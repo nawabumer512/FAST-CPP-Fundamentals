@@ -65,23 +65,34 @@ This repository contains a collection of core C++ logic, mathematical algorithms
 
 ---
 
-## 🛠️ How to Compile & Run
+## 🛠️ How to Compile & Run (Windows)
 
-## 🛠️ How to Compile & Run
+### Prerequisites
+1. Download and install MinGW: https://www.mingw-w64.org
+2. Add MinGW to your system PATH during installation.
+3. Open Command Prompt and verify installation:
+   g++ --version
 
-General rule for any file:
-  g++ filename.cpp -o outputname && ./outputname
+### Steps to Run Any File
+1. Open Command Prompt
+2. Navigate to the folder:
+   cd path\to\Assignment2
+3. Compile:
+   g++ q1.cpp -o q1
+4. Run:
+   q1.exe
 
-Assignment 2 (Operators & Conditionals):
-  g++ q1.cpp -o q1 && ./q1
-  g++ q2.cpp -o q2 -lm && ./q2     # needs -lm for sqrt()
+### Special Cases
 
-Assignment 3 (Loops):
-  g++ q1_rosenbrock_minimum.cpp -o q1 && ./q1
+Assignment 2 - Q2 (formula with sqrt):
+   g++ q2.cpp -o q2 -lm
+   q2.exe
 
-Assignment 4 (Arrays):
-  g++ q1.cpp -o q1 && ./q1
-  g++ q10.cpp -o q10 && ./q10      # generates output.ppm image file
+Assignment 4 - Q10 (Image Filter, generates a .ppm image):
+   g++ q10.cpp -o q10
+   q10.exe
+   This will create output.ppm in the same folder.
+   To view it, upload output.ppm to https://jumpshare.com
 
 ---
 
