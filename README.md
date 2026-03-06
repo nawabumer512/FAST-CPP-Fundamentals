@@ -2,20 +2,32 @@
 
 This repository contains a collection of core C++ logic, mathematical algorithms, and pattern-solving tasks completed during my 2nd semester at FAST-NUCES Multan.
 
----
-### 📁 Assignment 02: Operators & Conditional Logic
-*(Course Assignment 2)*
-
-This assignment focuses on mastering C++ operators (bitwise, arithmetic, logical) and implementing multi-layered decision-making structures without using loops.
-
-**Key Problems Solved:**
-* **IESCO Utility Billing System:** Developed a comprehensive electricity bill calculator that applies tax slabs, fuel price adjustments (FPA), and government duties based on unit consumption.
-* **Data Validation & Character Classification:** Created logic to identify and categorize characters (Uppercase, Lowercase, Digits, or Symbols) using ASCII values.
-* **Mathematical Computing:** * Implemented a quadratic equation solver to find real and complex roots.
-    * Developed a geometric validator to check triangle validity based on interior angles.
-* **System Tools:**
-    * **BMI Calculator:** A health tool that calculates Body Mass Index and provides category-based feedback.
-    * **Unit Converter:** A multi-unit tool for converting meters into kilometers, feet, and inches.
-    * **Modular Calculator:** An arithmetic tool built using `switch` statements for efficiency.
 
 ---
+
+## 📋 Assignment 3-This assignment is mainly about mastering loops (for, while, nested) in C++ through mathematical problems, pattern printing, and logic challenges.
+
+| # | Topic | Key Concept |
+|---|-------|-------------|
+| 1 | Rosenbrock Function Minimum | Nested while loops, function evaluation |
+| 2 | Student Score Mean & Average | for loop, accumulator |
+| 3 | Histogram with Asterisks | Nested loops, input validation |
+| 4 | π Approximation (Leibniz Series) | while loop, series convergence |
+| 5 | Euclidean GCD Algorithm | while loop, modulo operation |
+| 6 | Reverse Integer & Digit Sum | while loop, modulo/division |
+| 7 | Binary to Decimal Conversion | while loop, positional notation |
+| 8 | Cheer Lines with Indentation | Nested for loops, string formatting |
+| 9 | Slash/Backslash Pattern | Nested while loops, pattern logic |
+| 10 | Hash Diverging Pattern | while loop, spacing |
+| 11 | Right-aligned Number Pyramid | Nested loops, setw formatting |
+| 12 | 40-char Ruler Pattern | for loop, modulo |
+| 13 | 60-char Column Guide | Nested while loops |
+| 14 | Stars & Slashes Combined | Nested for loops |
+| 15 | Box with ^ v Arrows | Divide & Conquer approach |
+| 16 | PakAsia Currency Checker | Triple nested loop, brute force |
+| 17 | Fraction Series Output | while loop, numerator/denominator pattern |
+| 18 | Diagonal X Pattern | Nested loops, coordinate math |
+| 19 | Number Diamond | Nested loops, mirrored output |
+
+
+All solutions in this repository are original work. Do not copy or submit others' code as your own. Plagiarism will result in a **zero** on the assignment per course policy.
