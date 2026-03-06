@@ -30,4 +30,4 @@ This repository contains a collection of core C++ logic, mathematical algorithms
 | 19 | Number Diamond | Nested loops, mirrored output |
 
 
-All solutions in this repository are original work. Do not copy or submit others' code as your own. Plagiarism will result in a **zero** on the assignment per course policy.
+All solutions in this repository are original work.
