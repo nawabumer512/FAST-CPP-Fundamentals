@@ -22,3 +22,23 @@ This collection focuses on mastering control structures (while/for loops) to sol
 * **Language:** C++
 * **Environment:** GCC / MinGW Compiler
 * **Key Concepts:** Nested Loops, Mathematical Series, Algorithmic Efficiency, Logic Building.
+
+
+---
+
+### 📁 Assignment 02: Operators & Conditional Logic
+*(University Course Assignment 2)*
+
+[cite_start]This assignment focuses on mastering C++ operators (bitwise, arithmetic, logical) and implementing complex decision-making structures without the use of loops.
+
+**Key Problems Solved:**
+* [cite_start]**Utility Billing System:** Developed a complex electricity bill calculator that applies varying tax slabs, fuel price adjustments (FPA), and government duties based on unit consumption.
+* [cite_start]**Data Validation & Classification:** Created logic to identify and categorize characters as uppercase, lowercase, digits, or special symbols using ASCII values and relational operators.
+* [cite_start]**Mathematical Computing:** * Implemented a quadratic equation solver to find real and complex roots.
+    * [cite_start]Developed a geometric validator to check triangle validity based on interior angles.
+* **System Tools:**
+    * [cite_start]**Unit Converter:** A multi-unit tool for converting meters into kilometers, feet, and inches.
+    * [cite_start]**BMI Calculator:** A health tool that calculates Body Mass Index and provides category-based feedback (Underweight, Normal, Overweight, etc.).
+* [cite_start]**Functional Logic:** Built a modular calculator using `switch` statements for arithmetic operations.
+
+---
