@@ -2,6 +2,22 @@
 
 This repository contains a collection of core C++ logic, mathematical algorithms, and pattern-solving tasks completed during my 2nd semester at FAST-NUCES Multan.
 
+## 📋 Assignment 2-This assignment is mainly about operators (arithmetic, bitwise, relational, logical) and conditional statements (if/else, switch, ternary) in C++ — with no loops or arrays allowed.
+
+| # | Topic | Key Concept |
+|---|-------|-------------|
+| 1 | Egg Packing | Arithmetic operators, `/` and `%` |
+| 2 | Formula Evaluation | `sqrt()`, arithmetic, `cmath` |
+| 3 | Multiply by 63 (Bitwise) | Bit shifting, bitwise operators only |
+| 4 | Time Entry Bit Extraction | Bitwise AND, bit masking & shifting |
+| 5 | ATM Withdrawal | Conditional statements, greedy logic |
+| 6 | Employee Salary Calculator | `if/else if`, arithmetic |
+| 7 | 9x9 Grid Color Check | Relational & logical operators |
+| 8 | Magic Date | Ternary operator only |
+| 9 | Math Exercise Generator | `rand()`, conditionals, all operators |
+| 10 | Guessing Games Menu | `switch`, `rand()`, nested conditionals |
+| 11 | HP Server Diagnosis | Complex `if/else` flowchart |
+| 12 | IESCO Bill Calculator | `iomanip`, formatted output, arithmetic |
 
 ---
 
