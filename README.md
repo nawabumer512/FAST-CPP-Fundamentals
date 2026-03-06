@@ -46,7 +46,7 @@ This repository contains a collection of core C++ logic, mathematical algorithms
 | 19 | Number Diamond | Nested loops, mirrored output |
 
 
-
+---
 
 ## 📋 Assignment 4-This assignment is mainly about n-dimensional arrays (1D, 2D, and 3D) in C++ through problems like searching, sorting, games, algorithms, and image processing.
 
@@ -67,19 +67,37 @@ This repository contains a collection of core C++ logic, mathematical algorithms
 
 ## 🛠️ How to Compile & Run
 
-```bash
-g++ q1.cpp -o q1 && ./q1
-```
+## 🛠️ How to Compile & Run
 
-For q10 (uses file output for `.ppm` images):
-```bash
-g++ q10.cpp -o q10 && ./q10
-```
-View the generated `.ppm` image using [JumpShare](https://jumpshare.com) or any PPM viewer.
+General rule for any file:
+  g++ filename.cpp -o outputname && ./outputname
+
+Assignment 2 (Operators & Conditionals):
+  g++ q1.cpp -o q1 && ./q1
+  g++ q2.cpp -o q2 -lm && ./q2     # needs -lm for sqrt()
+
+Assignment 3 (Loops):
+  g++ q1_rosenbrock_minimum.cpp -o q1 && ./q1
+
+Assignment 4 (Arrays):
+  g++ q1.cpp -o q1 && ./q1
+  g++ q10.cpp -o q10 && ./q10      # generates output.ppm image file
 
 ---
 
+## ⚠️ Disclaimer
 
+The code in this repository is submitted as part of my coursework at NUCES Multan
+for CS1002 – Programming Fundamentals (Fall 2025). It is shared for reference and
+learning purposes only.
+
+- Do NOT copy or submit any part of this code as your own academic work.
+- Plagiarism violates NUCES academic integrity policy and can result in
+  zero marks or an F grade in the course.
+- The author holds no responsibility for any academic misconduct resulting
+  from misuse of this code.
+
+Use it to learn, not to cheat.
 
 
 All solutions in this repository are original work.
